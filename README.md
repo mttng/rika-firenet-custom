@@ -25,7 +25,7 @@ please look at the [User Guide in the Cookiecutter documentation](https://cookie
 | `sensor`        | Show info from Rika Firenet Custom API. |
 | `switch`        | Switch something `True` or `False`.                                       |
 
-![example][exampleimg]
+![RIKA_firenet_Logo][RIKA_firenet_Logo]
 
 ## Installation
 
