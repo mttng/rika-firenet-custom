@@ -17,7 +17,7 @@
 | `sensor`        | Show info from API.                 |
 | `switch`        | Switch something `True` or `False`. |
 
-![example][exampleimg]
+![rika-firenet-logo](rika-firenet-logo.png)
 
 {% if not installed %}
 
