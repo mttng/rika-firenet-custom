@@ -1,0 +1,10 @@
+{
+  "domain": "rika_firenet_custom",
+  "name": "Rika Firenet Custom",
+  "documentation": "https://github.com/mttng/rika-firenet-custom",
+  "issue_tracker": "https://github.com/mttng/rika-firenet-custom/issues",
+  "dependencies": [],
+  "config_flow": true,
+  "codeowners": ["@mttng"],
+  "requirements": []
+}
