@@ -2,7 +2,6 @@
   "config": {
     "step": {
       "user": {
-        "title": "Rika Firenet Custom",
         "description": "Si vous avez besoin d'aide pour la configuration, regardez ici: https://github.com/mttng/rika-firenet-custom",
         "data": {
           "username": "Identifiant",
