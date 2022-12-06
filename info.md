@@ -10,6 +10,7 @@
 [![Community Forum][forum-shield]][forum]
 
 **This component will set up the following platforms.**
+this is a test
 
 | Platform        | Description                         |
 | --------------- | ----------------------------------- |
